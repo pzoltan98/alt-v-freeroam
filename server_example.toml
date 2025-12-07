@@ -1,0 +1,16 @@
+name: 'alt:V Server By Rackflow'
+host: 0.0.0.0
+port: 
+players: 128
+password: superSECRETpassword
+announce: false
+token: YOUR_TOKEN
+debug: true
+gamemode: Freeroam
+website: rackflow.hu
+language: en
+description: 'alt:V Sample Server Powered By Rackflow'
+modules: [ node-module ]
+resources: [
+  freeroam
+]
